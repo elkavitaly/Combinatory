@@ -1,0 +1,10 @@
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\bin\Debug\Combinatory.exe.config
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\bin\Debug\Combinatory.exe
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\bin\Debug\Combinatory.pdb
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.csprojResolveAssemblyReference.cache
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.Form1.resources
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.Properties.Resources.resources
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.csproj.GenerateResource.Cache
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.csproj.CoreCompileInputs.cache
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.exe
+C:\Users\Виталий\source\repos\Combinatory\Combinatory\obj\Debug\Combinatory.pdb
